@@ -1,5 +1,10 @@
+* {
+    color: red;
+}
+
 body {
     padding: 10px;
     font-family: sans-serif;
     margin: 0 auto;
 }
+
